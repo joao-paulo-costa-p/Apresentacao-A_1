@@ -1,13 +1,13 @@
 <div align="center">
   
-  # 👋 Olá, eu sou o [Seu Nome ou Nome de Usuário]!
+  # 👋 Olá, eu sou o João Paulo!
   
-  ### Arquiteto(a) de Software | Desenvolvedor(a) [Sua Área]
+  ### Análise e Desenvolvimento de Sistemas
   
   <p>Construindo soluções escaláveis com código limpo e paixão por performance.</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU.EMAIL@EXEMPLO.COM)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-paulo-costa-de-paula-0629482b8)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopaulo10099@gmail.com)
   
   
   <br>
