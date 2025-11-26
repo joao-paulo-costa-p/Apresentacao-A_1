@@ -35,9 +35,9 @@
   
   ## 📚 Foco Atual e Contato
   
-  * 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no **UDF**.
+  * 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na **UDF**.
   * 🌐 Buscando a primeira oportunidade de estágio/junior para aplicar conhecimentos.
-  * ✉️ Contato: joaopaulo10099@gmail.com [cite: 2] | (61) 99193-4511[cite: 3].
+  * ✉️ Contato: joaopaulo10099@gmail.com | (61) 99193-4511.
   
 </div>
 
