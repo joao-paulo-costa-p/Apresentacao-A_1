@@ -8,8 +8,7 @@
   
   [![Localização](https://img.shields.io/badge/Localização-Brasília%2FDF-blue?style=for-the-badge&logo=map&logoColor=white)](https://www.google.com/maps/place/Brazlândia)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopaulo10099@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-paulo-costa-de-paula-0629482b8)
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-paulo-costa-de-paula-0629482b8)
   
   <br>
   
