@@ -1,5 +1,5 @@
-Calculadora em C 2.0
-Matéria - Algoritmos e Pensamento Computacional.
+# Calculadora em C 2.0
+Matéria - Algoritmos e Pensamento Computacional.<br>
 
 É uma calculadora que a gente fez em C e que roda direto no terminal.
 
@@ -44,4 +44,5 @@ Pronto! O seu programa vai rodar ali mesmo, no terminal do VS Code.
 
 Feito por:
 João Paulo Costa de Paula 
+
 Clara Geovana Caldeira da Silva
