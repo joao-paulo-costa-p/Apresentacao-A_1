@@ -9,4 +9,4 @@ estrutura de dados do projeto "Cidade Inteligente" que o tema repassado foi "Edu
 📌Foto do Modelo Conceitual.<br>
 📌Modelo Lógico - Criado em TXT para ser repassado para o Modelo Físico.<br>
 
-⚙️ Os projetos foram feitos no BrModelo, PostgreSQL e no Bloco de Notas.
+⚙️ Os projetos foram feitos no BrModelo, PostgreSQL e Bloco de Notas.
