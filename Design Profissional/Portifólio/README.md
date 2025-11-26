@@ -28,8 +28,8 @@
   
   ## 📈 Minhas Estatísticas no GitHub
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-paulo-costa-p&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-paulo-costa-p&layout=compact&langs_count=6&theme=buefy"/>
   
   ---
   
