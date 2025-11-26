@@ -1,27 +1,28 @@
 <div align="center">
   
-  # 👋 Olá, eu sou o João Paulo!
+  # 👋 Olá, eu sou João Paulo Costa de Paula!
   
-  ### Análise e Desenvolvimento de Sistemas
+  ### Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas (Conclusão: Fev/2027)
   
-  <p>Construindo soluções escaláveis com código limpo e paixão por performance.</p>
+  <p>Entusiasta da tecnologia, focado em transformar desafios em soluções digitais eficientes e otimizadas. Buscando minha primeira oportunidade no desenvolvimento.</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-paulo-costa-de-paula-0629482b8)
+  [![Localização](https://img.shields.io/badge/Localização-Brasília%2FDF-blue?style=for-the-badge&logo=map&logoColor=white)](https://www.google.com/maps/place/Brazlândia)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopaulo10099@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-paulo-costa-de-paula-0629482b8)
   
   
   <br>
   
-  ## 🛠️ Meu Stack Principal
+  ## 🛠️ Meu Stack (Em Desenvolvimento)
   
   <p>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/microsoft-excel-2019.png" alt="Excel" title="Excel Básico"/>
   </p>
   
   ---
@@ -33,17 +34,16 @@
   
   ---
   
-  ## 🚀 No Que Estou Trabalhando
+  ## 📚 Foco Atual e Contato
   
-  * 🌟 Foco em aprofundar conhecimentos em **[Tecnologia/Conceito, Ex: Serverless Architecture com Lambda]**.
-  * 🚧 Contribuindo ativamente para o meu projeto pessoal: **[Nome do Projeto]**.
-  * 🌱 Atualmente aprendendo sobre **[Nova Tecnologia, Ex: Rust]**.
-  * 💬 Procurando oportunidades para colaborar em projetos de **[Seu Nicho, Ex: Open Source em Web3]**.
+  * 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no **UDF**.
+  * 🌐 Buscando a primeira oportunidade de estágio/junior para aplicar conhecimentos.
+  * ✉️ Contato: joaopaulo10099@gmail.com [cite: 2] | (61) 99193-4511[cite: 3].
   
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Visualizações%20no%20Perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=joao-paulo-costa-p&label=Visualizações%20no%20Perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
