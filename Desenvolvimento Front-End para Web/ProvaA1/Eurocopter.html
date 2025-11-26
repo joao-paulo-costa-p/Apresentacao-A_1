@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eurocopter EC130 T2</title>
+
+  <link rel="stylesheet" href="estilos.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="logo">
+      <a href="index.html">
+        <img src="imagens/logo.jpeg" alt="Helicópteros de Luxo">
+      </a>
+    </div>
+
+    <ul id="menu">
+      <li><a href="Eurocopter.html">Eurocopter</a></li>
+      <li><a href="Bell.html">Bell</a></li>
+      <li><a href="Mercedes.html">Mercedes</a></li>
+    </ul>
+
+    <div class="menu-toggle" id="menu-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </nav>
+
+  <main>
+    <section id="coluna-section">
+    <div class="coluna">
+      <h2>Eurocopter EC130 T2</h2>
+      <img src="imagens/eurocopter.jpg" alt="Eurocopter EC130 T2">
+      <p>
+        O Eurocopter EC130 T2 é capaz de levar um piloto e mais sete passageiros, e chega a 287 km/h.
+        É uma versão atualizada do consagrado EC 130. Visualmente, mantém as principais características
+        do antecessor, mas de acordo com a fabricante cerca de 70% dos componentes do helicóptero receberam melhorias.
+      </p>
+    </div>
+   </section>
+ 
+  </main>
+
+  <!-- ===== RODAPÉ ===== -->
+  <footer>
+    <p>Explore os Helicópteros de Luxo mais fantásticos e luxuosos</p>
+    <a href="https://www.facebook.com/AirbusHelicopters">Facebook</a> | 
+    <a href="https://www.instagram.com/airbus_helicopters/">Instagram</a> |
+    <a href="https://twitter.com/AirbusHeli">Twitter</a>
+    <p>© 2025 Helicópteros de Luxo — Todos os direitos reservados</p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <script>
+    const menuToggle = document.getElementById('menu-toggle');
+    const menu = document.getElementById('menu');
+
+    menuToggle.addEventListener('click', () => {
+      menu.classList.toggle('show');
+      menuToggle.classList.toggle('active');
+    });
+  </script>
+</body>
+</html>

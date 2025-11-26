@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Helicópteros de Luxo</title>
+
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="logo">
+      <a href="index.html">
+        <img src="imagens/logo.jpeg" alt="Helicópteros de Luxo">
+      </a>
+    </div>
+
+    <ul id="menu">
+      <li><a href="Eurocopter.html">Eurocopter</a></li>
+      <li><a href="Bell.html">Bell</a></li>
+      <li><a href="Mercedes.html">Mercedes</a></li>
+    </ul>
+
+    <div class="menu-toggle" id="menu-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </nav>
+
+    <main>
+
+<section id="coluna-section">
+  <div class="coluna">
+    <h1>Helicópteros de Luxo</h1>
+    <img src="imagens/Helicopteroluxuoso.jpg" alt="Helicóptero de Luxo">    
+    <p>Bem-vindo à Helicópteros de Luxo, sua loja de carros e acessórios. Confira nossas promoções. Receba informações sobre nossos lançamentos por email.</p>
+ </div>
+</section>
+
+<section id="map-section">
+  <div class="coluna">
+    <h2>Como chegar</h2>
+    <p>
+      Você nos encontrará bem no centro da Cidade Aeroviária, na Rua Sem Número.
+      Se precisar de ajuda para nos localizar, verifique nossas instruções detalhadas.
+      Venha nos visitar !!!
+    </p>
+
+    <small>
+      <a href="https://www.openstreetmap.org/?mlat=-15.87198&amp;mlon=-47.91970#map=14/-15.87198/-47.91970" target="_blank">
+        Ver mapa ampliado
+      </a>
+    </small>
+
+    <div id="map"></div>
+  </div>
+
+</section>
+    <div id="map"></div>
+  </div>
+</main>
+    <footer>
+        <p>Explore os Helicópteros de Luxo mais fantásticos e luxuosos</p>
+        <a href="#">Facebook</a> | <a href="#">Instagram</a> | <a href="#">Twitter</a>
+        <p>© 2025 Helicópteros de Luxo — Todos os direitos reservados</p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const cidadeAeroviaria = [-15.87198, -47.91970];
+        const map = L.map('map').setView(cidadeAeroviaria, 14);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: 'Mapa da Cidade Aeroviária © OpenStreetMap contributors'
+        }).addTo(map);
+
+        L.marker(cidadeAeroviaria)
+            .addTo(map)
+            .bindPopup('<b>Rua Sem Número</b><br>Centro da Cidade Aeroviária.')
+            .openPopup();
+    </script>
+
+  <script>
+    const menuToggle = document.getElementById('menu-toggle');
+    const menu = document.getElementById('menu');
+
+    menuToggle.addEventListener('click', () => {
+      menu.classList.toggle('show');
+      menuToggle.classList.toggle('active');
+    });
+  </script>
+</body>
+</html>
