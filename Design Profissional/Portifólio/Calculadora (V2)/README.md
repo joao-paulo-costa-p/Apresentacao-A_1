@@ -1,6 +1,6 @@
 # Calculadora em C 2.0
-Matéria - Algoritmos e Pensamento Computacional.<br>
----
+###Matéria - Algoritmos e Pensamento Computacional.<br>
+
 É uma calculadora que a gente fez em C e que roda direto no terminal.
 
 O que o programa faz?
@@ -46,4 +46,5 @@ Feito por:
 João Paulo Costa de Paula 
 
 Clara Geovana Caldeira da Silva
+
 
