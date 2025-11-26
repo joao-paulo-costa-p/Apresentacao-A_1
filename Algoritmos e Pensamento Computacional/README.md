@@ -9,3 +9,5 @@ projetos visam aplicar os conceitos fundamentais de lógica de programação, es
 📌Calculadora (V2) - Versão 2.0 da Calculadora Científica em C usando função, arrays, bibliotecas diversas e entre outros.<br>
 📌Média de Alunos - Foi feito um código para saber a média de uma sala sobre um total de alunos que tem nessa mesma sala.<br>
 📌Ordenação e Análise de Desempenho em C - Projeto feito em bobble short de por em ordem crescente o RGM do aluno.<br>
+
+⚙️ Todos os códigos programados foram feitos na Linguagem C e na IDE VS CODE e no GDB Online.
