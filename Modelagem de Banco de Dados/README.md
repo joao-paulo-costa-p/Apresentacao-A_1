@@ -3,8 +3,8 @@
 estrutura de dados do projeto "Cidade Inteligente" que o tema repassado foi "Educação".
 
 📄 Arquivos incluídos:
-📌Modelo Físico - Criado o banco de dados no PostgeSQL.\n
-📌Dicionário de Dados - Descreve detalhadamente cada tabela e campo (atributo) do banco de dados.\n
+📌Modelo Físico - Criado o banco de dados no PostgeSQL.<br>
+📌Dicionário de Dados - Descreve detalhadamente cada tabela e campo (atributo) do banco de dados.<br>
 📌Modelo Conceitual - Modelo conceitual feito com ER (Entidade e Relacionamento) e criado no BrModelo (por isso o arqvuio está em brM3).
 📌Foto do Modelo Conceitual.
 📌Modelo Lógico - Criado em TXT para ser repassado para o Modelo Físico.
