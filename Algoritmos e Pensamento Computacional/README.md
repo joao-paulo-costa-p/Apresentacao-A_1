@@ -10,4 +10,4 @@ projetos visam aplicar os conceitos fundamentais de lógica de programação, es
 📌Média de Alunos - Foi feito um código para saber a média de uma sala sobre um total de alunos que tem nessa mesma sala.<br>
 📌Ordenação e Análise de Desempenho em C - Projeto feito em bobble short de por em ordem crescente o RGM do aluno.<br>
 
-⚙️ Todos os códigos programados foram feitos na Linguagem C e na IDE VS CODE e no GDB Online.
+⚙️ Todos os códigos programados foram feitos na Linguagem C, na IDE VS CODE e no GDB Online.
