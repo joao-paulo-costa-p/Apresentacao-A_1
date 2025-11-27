@@ -8,3 +8,5 @@ compilar os trabalhos e documentos que representam a jornada de aprendizado e a 
 📌Processo Seletivo - Consiste em prints indicando candidatura em uma vaga de estagiário em TI.<br>
 📌CV - Currículo feito em LATEX no site OverLeaf.<br>
 📌Certificado Evento - Certificado em PDF concedido ao marcar presença no evento Brasília mais TI.<br>
+
+⚙️ As atividades foram feitas no site OverLeaf e na IDE VS CODE usando HTML.
