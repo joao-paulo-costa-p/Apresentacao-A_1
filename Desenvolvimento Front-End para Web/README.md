@@ -1,4 +1,4 @@
-# 🧑‍💻 Desenvolvimento Front-end para Web
+# 🌐 Desenvolvimento Front-end para Web
 📂Esta pasta contém os projetos e materiais desenvolvidos ao longo do semestre da disciplina de Desenvolvimento Front-end para Web.
 ---
 📄 Arquivos Incluídos:<br>
