@@ -3,6 +3,7 @@
 compilar os trabalhos e documentos que representam a jornada de aprendizado e a aplicação prática dos conceitos da matéria.
 ---
 📄 Arquivos Incluídos:<br>
+📌Fanpage Gatinhos - Exercício que foi passado em sala para fazer um site com uma imagem de gato.<br>
 📌Portifólio - Contém um projeto desenvolvido em outra matéria que consiste em uma calculadora científica em C junto com um README profissional.<br>
 📌Processo Seletivo - Consiste em prints indicando candidatura em uma vaga de estagiário em TI.<br>
 📌CV - Currículo feito em LATEX no site OverLeaf.<br>
