@@ -15,6 +15,6 @@ Este repositório reúne todos os projetos e atividades realizados nas disciplin
 ---
 ## 📌 Como Navegar
 
-⚠️ *Importante*: Cada disciplina possui pasta própria com **README detalhado**, **código-fonte** e **entregáveis finais**.
+⚠️ *Importante*: *Cada disciplina possui pasta própria com **README detalhado**, **código-fonte** e **entregáveis finais***.
 
-▶️ **Para começar, selecione a pasta da disciplina que deseja explorar!**
+🚀 **Para começar, selecione a pasta ou clique no nome da disciplina que deseja explorar!**
