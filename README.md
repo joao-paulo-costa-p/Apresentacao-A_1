@@ -8,9 +8,9 @@ Este repositório reúne todos os projetos e atividades realizados nas disciplin
 
 ## 🎓 Disciplinas Presentes:<br>
 | **💡** | [Algoritmos e Pensamento Computacional.](https://github.com/joao-paulo-costa-p/Apresentacao-A_1/tree/main/Algoritmos%20e%20Pensamento%20Computacional)<br>
-| **🌐** | Desenvolvimento Front-End para Web.<br>
-| **🛠️** | Design Profissional.<br>
-| **📝** | Modelagem de Banco de Dados.<br>
+| **🌐** | [Desenvolvimento Front-End para Web.](https://github.com/joao-paulo-costa-p/Apresentacao-A_1/tree/main/Desenvolvimento%20Front-End%20para%20Web)<br>
+| **🛠️** | [Design Profissional.](https://github.com/joao-paulo-costa-p/Apresentacao-A_1/tree/main/Design%20Profissional)<br>
+| **📝** | [Modelagem de Banco de Dados.](https://github.com/joao-paulo-costa-p/Apresentacao-A_1/tree/main/Modelagem%20de%20Banco%20de%20Dados)<br>
 
 ---
 ## 📌 Como Navegar
