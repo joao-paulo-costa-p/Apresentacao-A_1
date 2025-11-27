@@ -1,6 +1,6 @@
 # ℹ️ Apresentação A1
 
-# 📚 Portfólio ADS - 1 Semestre
+# 📚 ADS - 1 Semestre
 
 Este repositório reúne todos os projetos e atividades realizados nas disciplinas do curso de Análise e Desenvolvimento de Sistemas (ADS) ao longo do semestre.
 
