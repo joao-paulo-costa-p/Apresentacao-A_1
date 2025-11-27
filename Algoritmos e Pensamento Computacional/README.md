@@ -14,4 +14,4 @@ projetos visam aplicar os conceitos fundamentais de lógica de programação, es
 
 ---
 
-⚙️ Todos os códigos programados foram feitos na Linguagem C, na IDE VS CODE e no GDB Online.
+⚙️ *Todos os códigos programados foram feitos na Linguagem C, na IDE VS CODE e no GDB Online.*
