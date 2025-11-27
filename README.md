@@ -1,5 +1,5 @@
 # ℹ️ Apresentação A1
-Este repositório contém projetos e atividades das matérias que foram desenvolvidas durante todo o semestre de ADS (Análise e Desenvolvimento de Sistemas).
+Este repositório reúne todos os projetos e atividades realizados nas disciplinas do curso de Análise e Desenvolvimento de Sistemas (ADS) ao longo do semestre.
 ---
 📚 Matérias Presentes:<br>
 💡 Algoritmos e Pensamento Computacional.<br>
