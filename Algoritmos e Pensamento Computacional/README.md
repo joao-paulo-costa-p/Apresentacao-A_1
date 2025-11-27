@@ -4,7 +4,7 @@ projetos visam aplicar os conceitos fundamentais de lógica de programação, es
 
 ---
 
-###📄 Arquivos Incluídos:<br>
+### 📄 Arquivos Incluídos:<br>
 📌**Cadastro de Alunos** - Foi preciso criar um código para cadastrar o aluno em uma instituição.<br>
 📌**Cadastro simples com Gravação em Arquivo** - Contem um código simples criado para demonstrar o código junto com a gravação em arquivo.<br>
 📌**Calculadora (V1)** - Versão 1.0 da Calculadora Científica em C usando switch case.<br>
