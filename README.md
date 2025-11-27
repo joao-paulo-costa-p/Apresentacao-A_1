@@ -13,7 +13,7 @@ Este repositório reúne todos os projetos e atividades realizados nas disciplin
 | **📝** | [Modelagem de Banco de Dados.](https://github.com/joao-paulo-costa-p/Apresentacao-A_1/tree/main/Modelagem%20de%20Banco%20de%20Dados)<br>
 
 ---
-## 📌 Como Navegar
+### 📌 Como Navegar
 
 ⚠️ *Importante*: *Cada disciplina possui pasta própria com **README detalhado**, **código-fonte** e **entregáveis finais***.
 
