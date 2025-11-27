@@ -7,4 +7,4 @@ Este repositório reúne todos os projetos e atividades realizados nas disciplin
 🛠️ Design Profissional.<br>
 📝 Modelagem de Banco de Dados.<br>
 
-Cada disciplina possui pasta própria com README detalhado, código-fonte e entregáveis.
+⚠️ Cada disciplina possui pasta própria com README detalhado, código-fonte e entregáveis.
