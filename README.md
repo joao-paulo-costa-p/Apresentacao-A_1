@@ -13,5 +13,6 @@ Este repositório reúne todos os projetos e atividades realizados nas disciplin
 | **📝** | Modelagem de Banco de Dados.<br>
 
 ---
+## 📌 Como Navegar
 
-⚠️ Cada disciplina possui pasta própria com README detalhado, código-fonte e entregáveis.
+⚠️ *Importante*: Cada disciplina possui pasta própria com README detalhado, código-fonte e entregáveis.
