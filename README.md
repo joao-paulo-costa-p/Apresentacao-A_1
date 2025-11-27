@@ -7,7 +7,7 @@ Este repositório reúne todos os projetos e atividades realizados nas disciplin
 ---
 
 ## 🎓 Disciplinas Presentes:<br>
-| **💡** | Algoritmos e Pensamento Computacional.<br>
+| **💡** | [Algoritmos e Pensamento Computacional.](https://github.com/joao-paulo-costa-p/Apresentacao-A_1/tree/main/Algoritmos%20e%20Pensamento%20Computacional)<br>
 | **🌐** | Desenvolvimento Front-End para Web.<br>
 | **🛠️** | Design Profissional.<br>
 | **📝** | Modelagem de Banco de Dados.<br>
